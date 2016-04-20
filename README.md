@@ -27,5 +27,9 @@ So far, logic to fill the bathtub has to be improved
 
 
 -Device density target: hdpi
--Time spent: 2 days
+-Time spent: 2 hours
 -Developed in: Android Studio 2.0
+
+![Alt Text](http://i.giphy.com/26AHy7XI5R64aihtC.gif)
+
+
